@@ -38,7 +38,7 @@ a {
 }
 
 .broadway {
-  background-image:image("./resources/images/the-flatiron-building.png");
+  background-image:image ("./resources/images/the-flatiron-building.png");
   font-size: 23px;
   font-weight: bold;
 }
